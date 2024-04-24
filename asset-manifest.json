@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactModuleTest/static/css/main.2bfcadf6.css",
+    "main.js": "/ReactModuleTest/static/js/main.faaf1c48.js",
+    "static/media/img.png": "/ReactModuleTest/static/media/img.e0c62330cbcf1d946a6a.png",
+    "static/media/logo.svg": "/ReactModuleTest/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ReactModuleTest/index.html",
+    "main.2bfcadf6.css.map": "/ReactModuleTest/static/css/main.2bfcadf6.css.map",
+    "main.faaf1c48.js.map": "/ReactModuleTest/static/js/main.faaf1c48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bfcadf6.css",
+    "static/js/main.faaf1c48.js"
+  ]
+}
